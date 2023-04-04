@@ -26,6 +26,24 @@ List<Map> pegawai = [
     'email': 'Winata@gmail.com',
     'password': '123',
   },
+  {
+    'id': 4,
+    'nip': '45678',
+    'nama': 'Udil Subakti',
+    'tanggalLahir': '31 November 1992',
+    'nomorTelepon': '0815678345287',
+    'email': 'Udilsu@gmail.com',
+    'password': '123',
+  },
+  {
+    'id': 5,
+    'nip': '56789',
+    'nama': 'Kairi Boy',
+    'tanggalLahir': '2 Januari 2003',
+    'nomorTelepon': '08165438900',
+    'email': 'Kairiboy@gmail.com',
+    'password': '123',
+  },
 ];
 
 List<Map> pasien = [
@@ -60,5 +78,13 @@ List<Map> pasien = [
     'tanggalLahir': '16 Desember 2002',
     'nomorTelepon': '085789654321',
     'alamat': 'Manado',
+  },
+  {
+    'id': 5,
+    'noRm': '76784',
+    'nama': 'Renbo',
+    'tanggalLahir': '14 Oktober 2002',
+    'nomorTelepon': '085678490388',
+    'alamat': 'Bandung',
   },
 ];
