@@ -18,6 +18,7 @@ class _PegawaiDetailState extends State<PegawaiDetail> {
         appBar: AppBar(title: Text("Detail Pegawai")),
         body: Column(
           // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+
           children: [
             const SizedBox(height: 50),
             Row(

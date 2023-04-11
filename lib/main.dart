@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '/ui/home.dart';
+import '/ui/poli_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Vann',
       debugShowCheckedModeBanner: false,
-      home: HomePage(),
+      home: PoliPage(),
     );
   }
 }
