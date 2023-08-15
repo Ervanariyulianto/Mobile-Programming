@@ -1,10 +1,10 @@
 # flutter_application_1
 
-A new Flutter project.
+KOS APP FLUTTER
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project by Ervan Ariyulianto
 
 A few resources to get you started if this is your first Flutter project:
 
